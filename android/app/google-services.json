@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990703562131",
+    "project_id": "dconag-5c442",
+    "storage_bucket": "dconag-5c442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990703562131:android:2ae116d164777b149c8c66",
+        "android_client_info": {
+          "package_name": "com.mws.dconag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX74orvfHK6AQ8f_brmxEKpoXPkggDF30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
